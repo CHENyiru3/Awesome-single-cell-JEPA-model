@@ -14,6 +14,7 @@ We will use AI assistant to manage and expand this list, but all updates would b
 - [Spatial omics](#spatial-omics)
 - [Contributing](#contributing)
 - [Citation](#citation)
+- [License](#license)
 
 Papers are listed newest to oldest within each section. Dates use the arXiv v1 submission record or the first bioRxiv posting. A workshop date is labeled when the first online posting date could not be verified.
 
@@ -46,6 +47,8 @@ Papers are listed newest to oldest within each section. Dates use the arXiv v1 s
 
 We welcome contributions to this repository! Suggest a paper, or report a broken link, or raise any content suggestion, by [opening an issue](https://github.com/CHENyiru3/Awesome-single-cell-JEPA-model/issues/new) or opening a pull request. 
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidance on checking scope, sources, and proposed updates.
+
 Use the row below for new entries. Describe the context the model sees and the embedding it predicts or matches. Link to the published paper when available, record its first release as YYYY-MM-DD, and note code and checkpoint availability separately. Place each paper once in the most relevant section.
 
 ```markdown
@@ -54,7 +57,7 @@ Use the row below for new entries. Describe the context the model sees and the e
 
 ## Citation
 
-If you use this curated list in your work, please cite the repository. For a specific snapshot, replace the repository URL with the GitHub permalink for the commit you used.
+If you use this curated list in your work, please cite the repository. For a specific snapshot, replace the repository URL with the GitHub permalink for the commit you used. Machine-readable metadata is available in [CITATION.cff](CITATION.cff).
 
 ```bibtex
 @misc{chen2026awesomejepa,
@@ -66,3 +69,7 @@ If you use this curated list in your work, please cite the repository. For a spe
   note         = {Accessed YYYY-MM-DD}
 }
 ```
+
+## License
+
+The original curation and text in this repository are available under the [Creative Commons Attribution 4.0 International license](LICENSE). Linked papers, code, checkpoints, and datasets follow the terms set by their respective rights holders.

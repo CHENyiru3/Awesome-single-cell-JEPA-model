@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this curated list in your work, please cite it as below."
+type: dataset
+title: "Awesome Single-Cell JEPA Models"
+authors:
+  - family-names: Chen
+    given-names: Yiru
+date-released: "2026-11-16"
+repository-code: "https://github.com/CHENyiru3/Awesome-single-cell-JEPA-model"
+license: CC-BY-4.0

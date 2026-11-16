@@ -26,7 +26,7 @@ A curated list of research papers on **Joint-Embedding Predictive Architectures 
 
 | Model | Paper · Year · Venue | Latent target and context | Code | Checkpoints |
 | --- | --- | --- | --- | --- |
-| **SpatialJEPA** | [JEPA-inspired graph-context distillation for spatially aware multiomics integration](https://doi.org/10.64898/2026.07.21.739810) · Mann-Krzisnik & Li · 2026, bioRxiv | Distills cell embeddings from a spatial graph teacher into a student that sees each cell without its neighbors. The student can embed dissociated RNA–ATAC profiles. | [Training and analysis code](https://github.com/li-lab-mcgill/SpatialJEPA) | [Author-listed Zenodo deposit](https://doi.org/10.5281/zenodo.23933515) · Public access unverified |
+| **SpatialJEPA** | [JEPA-inspired graph-context distillation for spatially aware multiomics integration](https://doi.org/10.64898/2026.07.21.739810) · Mann-Krzisnik & Li · 2026, bioRxiv | Distills cell embeddings from a spatial graph teacher into a student that sees each cell without its neighbors. The student can embed dissociated RNA–ATAC profiles. | [Training and analysis code](https://github.com/li-lab-mcgill/SpatialJEPA) | [Author-listed Zenodo deposit](https://doi.org/10.5281/zenodo.23933515) |
 
 ## Contributing
 

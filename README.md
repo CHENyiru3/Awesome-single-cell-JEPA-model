@@ -13,6 +13,7 @@ We will use AI assistant to manage and expand this list, but all updates would b
 - [Single-cell omics](#single-cell-omics)
 - [Spatial omics](#spatial-omics)
 - [Contributing](#contributing)
+- [Citation](#citation)
 
 Papers are listed newest to oldest within each section. Dates use the arXiv v1 submission record or the first bioRxiv posting. A workshop date is labeled when the first online posting date could not be verified.
 
@@ -49,4 +50,19 @@ Use the row below for new entries. Describe the context the model sees and the e
 
 ```markdown
 | **Model** | YYYY-MM-DD | [Paper title](paper-url) · First author et al. · Venue | Context and latent target. | [Official code](code-url) or **Not open-sourced** | [Official checkpoint](checkpoint-url) or No public checkpoint found |
+```
+
+## Citation
+
+If you use this curated list in your work, please cite the repository. For a specific snapshot, replace the repository URL with the GitHub permalink for the commit you used.
+
+```bibtex
+@misc{chen2026awesomejepa,
+  author       = {Chen, Yiru},
+  title        = {Awesome Single-Cell {JEPA} Models},
+  year         = {2026},
+  howpublished = {GitHub repository},
+  url          = {https://github.com/CHENyiru3/Awesome-single-cell-JEPA-model},
+  note         = {Accessed YYYY-MM-DD}
+}
 ```

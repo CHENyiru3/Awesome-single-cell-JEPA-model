@@ -1,6 +1,12 @@
 # Awesome Single-Cell JEPA Models
 
-A curated list of research papers on **Joint-Embedding Predictive Architectures (JEPAs)** for single-cell and spatial omics.
+A curated list of research papers and models on **Joint-Embedding Predictive Architectures (JEPAs)** for single-cell and spatial omics. JEPA is a self-supervised learning paradigm by directly predicting representations in latent space. JEPA also could be an extra objective term in other learning paradigm, which we called the model to be JEPA-inspired. 
+
+For general JEPA model, could check [Awesome JEPA](https://github.com/AI-in-Transportation-Lab/awesome-jepa). Also, [I-JEPA](https://arxiv.org/abs/2301.08243) for images, and [V-JEPA 2](https://arxiv.org/abs/2506.09985) for video, could also be a classic start to learn about JEPA.
+
+# AI assistant disclosure
+
+We use AI assistant to manage and expand this list, but all updates would be reviewed carefully by repo owner. Any [contribution](#Contributing) is welcomed, but make sure you have reviewed the content and have your own judgement. 
 
 ## Contents
 
@@ -37,7 +43,9 @@ Papers are listed newest to oldest within each section. Dates use the arXiv v1 s
 
 ## Contributing
 
-Suggest a paper or report a broken link by [opening an issue](https://github.com/CHENyiru3/Awesome-single-cell-JEPA-model/issues/new) or opening a pull request. Use the row below for new entries. Describe the context the model sees and the embedding it predicts or matches. Link to the published paper when available, record its first release as YYYY-MM-DD, and note code and checkpoint availability separately. Place each paper once in the most relevant section.
+We welcome contributions to this repository! Suggest a paper, or report a broken link, or raise any content suggestion, by [opening an issue](https://github.com/CHENyiru3/Awesome-single-cell-JEPA-model/issues/new) or opening a pull request. 
+
+Use the row below for new entries. Describe the context the model sees and the embedding it predicts or matches. Link to the published paper when available, record its first release as YYYY-MM-DD, and note code and checkpoint availability separately. Place each paper once in the most relevant section.
 
 ```markdown
 | **Model** | YYYY-MM-DD | [Paper title](paper-url) · First author et al. · Venue | Context and latent target. | [Official code](code-url) or **Not open-sourced** | [Official checkpoint](checkpoint-url) or No public checkpoint found |

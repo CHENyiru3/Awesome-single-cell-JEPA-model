@@ -22,15 +22,11 @@ A curated list of research papers on **Joint-Embedding Predictive Architectures 
 | **Cell-JEPA** | [Latent Representation Learning for Single-Cell Transcriptomics](https://arxiv.org/abs/2602.02093) · ElSheikh et al. · 2026, arXiv | Predicts the unmasked EMA teacher's whole-cell embedding from masked scRNA-seq and also reconstructs masked gene-expression values. | **Not open-sourced** | No public checkpoint found |
 | **GeneJEPA** | [A Predictive World Model of the Transcriptome](https://doi.org/10.1101/2025.10.14.682378) · Litman et al. · 2025, bioRxiv | Predicts latent representations of masked gene sets from visible scRNA-seq genes using a Perceiver-style encoder. | [Public training and inference code](https://github.com/BiostateAI/GeneJEPA) · License unspecified in the code repository | [GeneJEPA checkpoint](https://huggingface.co/elonlit/GeneJEPA) |
 
-GB-JEPA provides figure source data in the [arXiv ancillary files](https://arxiv.org/abs/2608.05928v2).
-
 ## Spatial omics
 
 | Model | Paper · Year · Venue | Latent target and context | Code | Checkpoints |
 | --- | --- | --- | --- | --- |
 | **SpatialJEPA** | [JEPA-inspired graph-context distillation for spatially aware multiomics integration](https://doi.org/10.64898/2026.07.21.739810) · Mann-Krzisnik & Li · 2026, bioRxiv | Distills cell embeddings from a spatial graph teacher into a student that sees each cell without its neighbors. The student can embed dissociated RNA–ATAC profiles. | [Training and analysis code](https://github.com/li-lab-mcgill/SpatialJEPA) | [Author-listed Zenodo deposit](https://doi.org/10.5281/zenodo.23933515) · Public access unverified |
-
-The SpatialJEPA authors describe the trained models, processed inputs, and public source datasets in their [data and model documentation](https://github.com/li-lab-mcgill/SpatialJEPA/blob/main/docs/DATA.md).
 
 ## Contributing
 

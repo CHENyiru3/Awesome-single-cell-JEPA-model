@@ -4,9 +4,9 @@ A curated list of research papers and models on **Joint-Embedding Predictive Arc
 
 For general JEPA model, could check [Awesome JEPA](https://github.com/AI-in-Transportation-Lab/awesome-jepa). Also, [I-JEPA](https://arxiv.org/abs/2301.08243) for images, and [V-JEPA 2](https://arxiv.org/abs/2506.09985) for video, could also be a classic start to learn about JEPA.
 
-# AI assistant disclosure
+## AI assistant disclosure
 
-We use AI assistant to manage and expand this list, but all updates would be reviewed carefully by repo owner. Any [contribution](#Contributing) is welcomed, but make sure you have reviewed the content and have your own judgement. 
+We will use AI assistant to manage and expand this list, but all updates would be reviewed carefully by repo owner. Any [contribution](#Contributing) is welcomed, but make sure you have reviewed the content and have your own judgement. 
 
 ## Contents
 
